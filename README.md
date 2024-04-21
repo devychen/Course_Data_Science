@@ -23,7 +23,8 @@ Yes. More specifically (based on findings from previous studies):
    - conscientiousness is related to distinctions.
 
 **Dataset** <br>
-We will build a corpus based on a famous playscript (possibly _The Merchant of Venice_ by Shakespeare). With references from literetures on personalities of the characters, we will analyse the features to see if the results align with their personality and if the hypotheses are true. <br>
+Corpus: We will build a corpus based on a famous playscript (possibly _The Merchant of Venice_ by Shakespeare). <br>
+With references from literetures on personalities of the characters, we will analyse the features to see if the results align with their personality and if the hypotheses are true. <br>
 The number of charcaters will be limited to 5 at most. 
 
 **Analysis** <br>
