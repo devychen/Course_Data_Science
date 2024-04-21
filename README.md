@@ -3,10 +3,10 @@
 Expected Credits: 6 CPS <br>
 Team members: Yifei Chen & Chi Kuan Lai <br>
 
-**Title:** <br>
+**Title:**
 **The Relations Between Personality and Language Use**
 
-**Keywords**
+**Keywords** 
 LIWC, Personality, Text Analysis
 
 **Research Question** <br>
@@ -41,11 +41,9 @@ In sum, we intend to explore the following factors and the according correlation
 3. The social past: past tense, social, positive emotion.
 4. Rationalisation: insight, causation, negative emotion.
 
-**Major Reference**
+**Major Reference** <br>
 1. Ginting, S. A. (2018). Syntactic Complexity on Extroverted and Introverted Indonesian Language Learners’ Written Products. _International Journal of Education and Literacy Studies_, 6(4), 101-. https://doi.org/10.7575/aiac.ijels.v.6n.4p.101
 2. Pennebaker, J. W., & King, L. A. (1999). Linguistic Styles: Language Use as an Individual Difference. _Journal of Personality and Social Psychology_, 77(6), 1296–1312. https://doi.org/10.1037/0022-3514.77.6.1296
 
-
-
-**Additional Notes**
+**Additional Notes** <br>
 The project might be simplified a bit in practice if the corpus or workload is relatively too intense.
