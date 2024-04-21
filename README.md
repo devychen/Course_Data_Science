@@ -1,7 +1,7 @@
 # DS_Assign
 
 Expected Credits: 6 CPS <br>
-Team members: Chen & Jessica <br>
+Team members: Yifei Chen & Chi Kuan Lai <br>
 
 **Title:** <br>
 **The Relations Between Personality and Language Use**
