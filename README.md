@@ -1,4 +1,4 @@
-# DS_Assign
+# Mini Project for Data Analysis for Linguists
 
 Expected Credits: 6 CPS <br>
 Team members: Yifei Chen & Chi Kuan Lai <br>
