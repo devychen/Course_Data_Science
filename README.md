@@ -1,7 +1,7 @@
 # Mini Project for Data Analysis for Linguists
 
 Expected Credits: 6 CPS <br>
-Team members: Yifei Chen & Chi Kuan Lai <br>
+Team members: Yifei Chen & Chi Kuan Lai (Jessica) <br>
 
 **Title:**
 **The Relations Between Personality and Language Use**
