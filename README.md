@@ -46,6 +46,7 @@ In sum, we intend to explore the following factors and the according correlation
 **Major Reference** <br>
 1. Ginting, S. A. (2018). Syntactic Complexity on Extroverted and Introverted Indonesian Language Learners’ Written Products. _International Journal of Education and Literacy Studies_, 6(4), 101-. https://doi.org/10.7575/aiac.ijels.v.6n.4p.101
 2. Pennebaker, J. W., & King, L. A. (1999). Linguistic Styles: Language Use as an Individual Difference. _Journal of Personality and Social Psychology_, 77(6), 1296–1312. https://doi.org/10.1037/0022-3514.77.6.1296
+3. Pizzolli, D. & Strapparava, C. (2019). Personality Traits Recognition in Literary Texts. In Proceedings of _the Second Workshop on Storytelling_, pages 107–111, Florence, Italy. Association for Computational Linguistics. https://doi.org/10.18653/v1/W19-3411
 
 **Additional Notes** <br>
 The project might be simplified a bit in practice if the corpus or workload is relatively too intense.
