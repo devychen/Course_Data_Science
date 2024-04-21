@@ -31,6 +31,7 @@ Yes. More specifically (based on findings from previous studies):
 - This mini project is instuitively inspired by the previous work of Pennebaker and King (1999).
 - We will use LIWC (Linguistic Inquiry and Word Count) as a measure of personality by analysing the lines of selected characters.
 - For personality, there are many classification methods, we will use the Big Five personality dimensions (Neuroticism/Stability, Extroversion, Openness, Agressableness, Conscientiousness, Openness) as it is widely applied in previous studies.
+
 - A factor analysis of the 72 English LIWC variables provided four main factors: 
 1. Immediacy: first-persona singular pronouns, articles, long words, present tense, discrepancies.
 2. Distinctions: exclusiceness, tentativeness, negations, inclusive words.
