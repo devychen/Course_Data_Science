@@ -14,7 +14,7 @@ Do language variables of the LIWC refect personality factors as in previous LIWC
 
 **Hypotheses** <br>
 Yes. More specifically (based on findings from previous studies):
-1. Sentence-level: Extroverted people tend to use more complex sentences (CpxS) and compound complex sentences (CCS) while introverted people use more simple sentence (SS).
+1. Sentence-level: <br> Extroverted people tend to use more complex sentences (CpxS) and compound complex sentences (CCS) while introverted people use more simple sentence (SS).
 2. Word-level:
    - Neuroticism is correlates with immediacy.
    - Extraversion is correlated with distinctions.
