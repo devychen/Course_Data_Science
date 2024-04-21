@@ -7,7 +7,7 @@ Team members: Yifei Chen & Chi Kuan Lai (Jessica) <br>
 **The Relations Between Personality and Language Use**
 
 **Keywords** 
-LIWC, Personality, Text Analysis
+LIWC, Personality, Literacy Text Analysis
 
 **Research Question** <br>
 Do language variables of the LIWC refect personality factors as in previous LIWC studies?
