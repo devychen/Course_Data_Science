@@ -3,6 +3,8 @@
 Expected Credits: 6 CPS <br>
 Team members: Yifei Chen & Chi Kuan Lai (Jessica) <br>
 
+Overleaf access [here](https://www.overleaf.com/6862337735zdhyxhyqvstd#bece5c) (view only).
+
 **Title:**
 **The Relations Between Personality and Language Use**
 
