@@ -54,6 +54,8 @@ In sum, we intend to explore the following factors and the according correlation
 The project might be simplified a bit in practice if the corpus or workload is relatively too intense.
 
 
-**Notes**
+**Notes** <br>
 "Linguistic Inquiry and Word Count (LIWC) is a transparent text analysis program that counts words in psychologically meaningful categories. Empirical results using LIWC demonstrate its ability to detect meaning in a wide variety of experimental settings, including to show attentional focus, emotionality, social relationships, thinking styles, and individual differences." <br>
-Tausczik, Y. R., & Pennebaker, J. W. (2010). The Psychological Meaning of Words: LIWC and Computerized Text Analysis Methods. Journal of Language and Social Psychology, 29(1), 24-54. https://doi.org/10.1177/0261927X09351676
+Tausczik, Y. R., & Pennebaker, J. W. (2010). The Psychological Meaning of Words: LIWC and Computerized Text Analysis Methods. Journal of Language and Social Psychology, 29(1), 24-54. https://doi.org/10.1177/0261927X09351676 <br>
+[txt version of Romeo and Juliet](https://github.com/cgovella/learning/blob/master/edx-python/case%20studies/gutenverg/Books/English/shakespeare/Romeo%20and%20Juliet.txt)
+
