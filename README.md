@@ -3,7 +3,7 @@
 Expected Credits: 6 CPS <br>
 Team members: Yifei Chen & Chi Kuan Lai (Jessica) <br>
 
-Overleaf access [here](https://www.overleaf.com/6862337735zdhyxhyqvstd#bece5c) (view only).
+Paper's [Overleaf access](https://www.overleaf.com/6862337735zdhyxhyqvstd#bece5c) (view only).
 
 **Title:**
 **The Relations Between Personality and Language Use**
@@ -25,7 +25,7 @@ Yes. More specifically (based on findings from previous studies):
    - conscientiousness is related to distinctions.
 
 **Dataset** <br>
-- Corpus: We will build a corpus based on a famous playscript (possibly _The Merchant of Venice_ by Shakespeare).
+- Corpus: Corpus built on Shakespeare's *Romeo and Juliet*.
 - With references from literetures on personalities of the characters, we will analyse the features to see if the results align with their personality and if the hypotheses are true.
 - The number of charcaters will be limited to 5 at most. 
 
@@ -52,10 +52,4 @@ In sum, we intend to explore the following factors and the according correlation
 
 **Additional Notes** <br>
 The project might be simplified a bit in practice if the corpus or workload is relatively too intense.
-
-
-**Notes** <br>
-"Linguistic Inquiry and Word Count (LIWC) is a transparent text analysis program that counts words in psychologically meaningful categories. Empirical results using LIWC demonstrate its ability to detect meaning in a wide variety of experimental settings, including to show attentional focus, emotionality, social relationships, thinking styles, and individual differences." <br>
-Tausczik, Y. R., & Pennebaker, J. W. (2010). The Psychological Meaning of Words: LIWC and Computerized Text Analysis Methods. Journal of Language and Social Psychology, 29(1), 24-54. https://doi.org/10.1177/0261927X09351676 <br>
-[txt version of Romeo and Juliet](https://github.com/cgovella/learning/blob/master/edx-python/case%20studies/gutenverg/Books/English/shakespeare/Romeo%20and%20Juliet.txt)
 
