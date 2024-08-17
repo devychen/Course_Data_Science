@@ -3,6 +3,7 @@
 Expected Credits: 6 CPS <br>
 Team members: Yifei Chen & Chi Kuan Lai (Jessica) <br>
 
+**Paper Access**
 Paper's [Overleaf access](https://www.overleaf.com/6862337735zdhyxhyqvstd#bece5c) (view only).
 
 **Title:**
