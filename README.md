@@ -1,9 +1,9 @@
 # Mini Project for Data Analysis for Linguists
 
-Expected Credits: 6 CPS <br>
+Expected Credits: 6 CPs Graded <br>
 Team members: Yifei Chen & Chi Kuan Lai (Jessica) <br>
 
-**Paper Access**
+**Paper Access** <br>
 Paper's [Overleaf access](https://www.overleaf.com/6862337735zdhyxhyqvstd#bece5c) (view only).
 
 **Title:**
