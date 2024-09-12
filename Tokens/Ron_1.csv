@@ -1,7 +1,7 @@
 Token,POS,Frequency
 .,PUNCT,108
 ",",PUNCT,73
-!,PUNCT,63
+!,PUNCT,61
 you,PRON,42
 it,PRON,32
 ?,PUNCT,32
@@ -325,7 +325,7 @@ an,DET,1
 also,ADV,1
 all,DET,1
 ahhhhhhhhh,ADJ,1
-ahhhhhhh,PROPN,1
+ahhhhhhh,INTJ,1
 ahhhh,PROPN,1
 ahem,PROPN,1
 ah,INTJ,1
